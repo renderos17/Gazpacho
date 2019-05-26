@@ -1,0 +1,2 @@
+# Gazpacho
+Gazpacho is an Android app intended to help find and document recipes. Users will be able to search the web for recipes, and also document any changes they may have made, and document results. These can then be uploaded to the Gazpacho community for users to see and benefit from. Users will also be able to enter in their own custom entries, and will be able to share them with the Gazpacho community.
